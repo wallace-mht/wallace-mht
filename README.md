@@ -3,7 +3,7 @@
 
 <p align="center">
 <img align="right" alt="" height="190px" kaiserimpact.gif">
-<h3 align="left">!</h3>
+<h3 align="left"></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
