@@ -38,12 +38,3 @@ Sou desenvolvedor front-end, atualmente cursando **Sistemas da Computação**. T
 - 🥇 **Vencedor — Piauí para o Mundo** (modalidade Universidade)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
