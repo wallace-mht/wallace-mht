@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+---
 ### 🚀 Sobre mim
 
 Sou desenvolvedor front-end, atualmente cursando **Sistemas da Computação**. Trabalho principalmente com **React** e **Tailwind CSS** para construir interfaces modernas e responsivas, além de ter experiência com **Python** para lógica de back-end e automações.
