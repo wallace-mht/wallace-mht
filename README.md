@@ -2,8 +2,8 @@
 <h3 align="center">Desenvolvedor Front-end | Graduando em Sistemas da Computação</h3>
 
 <p align="center">
-<img align="right" alt="" height="190px" src="./src/anime.gif">
-<h3 align="left">Connect with me!</h3>
+<img align="right" alt="" height="190px" kaiserimpact.gif">
+<h3 align="left">!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
