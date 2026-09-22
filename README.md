@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Front-end | Graduando em Sistemas da Computação</h3>
 
 <p align="center">
-<img align="left" alt="height="190px" src="kaiserimpact.gif">
+<img align="rigth" alt="height="190px" src="kaiserimpact.gif">
 <h3 align="rigth"></h3>
 
 <p align="center">
