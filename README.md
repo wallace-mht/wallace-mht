@@ -2,8 +2,8 @@
 <h3 align="center">Desenvolvedor Front-end | Graduando em Sistemas da Computação</h3>
 
 <p align="center">
-  <img src="assets/kaiserimpact.gif" alt="Kaiser Impact - Blue Lock" width="300"/>
-</p>
+<img align="right" alt="" height="190px" src="./src/anime.gif">
+<h3 align="left">Connect with me!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
