@@ -47,11 +47,3 @@ Sou desenvolvedor front-end, atualmente cursando **Sistemas da Computação**. T
 </p>
 
 ---
-
-### 📬 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
-    <img src="https://img.shields.io/badge/-Matheus%20Wallace-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
