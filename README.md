@@ -13,15 +13,15 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Sou desenvolvedor front-end, atualmente cursando **Sistemas da Computação**. Trabalho principalmente com **React** e **Tailwind CSS** para construir interfaces modernas e responsivas, além de ter experiência com **Python** para lógica de back-end e automações.
 
-🏆 **Vencedor do Piauí para o Mundo**, na modalidade Universidade — um reconhecimento que reforça meu compromisso com projetos de impacto e inovação.
+**Vencedor do Piauí para o Mundo**, na modalidade Universidade — um reconhecimento que reforça meu compromisso com projetos de impacto e inovação.
 
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -31,15 +31,15 @@ Sou desenvolvedor front-end, atualmente cursando **Sistemas da Computação**. T
 
 ---
 
-### 🎓 Formação
+### Formação
 
 - Graduando em **Sistemas da Computação**
 
 ---
 
-### 🏅 Conquistas
+###  Conquistas
 
-- 🥇 **Vencedor — Piauí para o Mundo** (modalidade Universidade)
+-  **Vencedor — Piauí para o Mundo** (modalidade Universidade)
 
 ---
 
