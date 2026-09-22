@@ -2,6 +2,10 @@
 <h3 align="center">Desenvolvedor Front-end | Graduando em Sistemas da Computação</h3>
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/hW-DM6rs7lQAAAAC/michael-kaiser-kaiser-bllk.gif" alt="Kaiser - Blue Lock" width="300"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -38,3 +42,11 @@ Sou desenvolvedor front-end, atualmente cursando **Sistemas da Computação**. T
 - 🥇 **Vencedor — Piauí para o Mundo** (modalidade Universidade)
 
 ---
+
+### 📬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
+    <img src="https://img.shields.io/badge/-Matheus%20Wallace-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
