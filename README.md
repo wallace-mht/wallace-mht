@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Wallace 👋</h1>
+<h1 align="center">Olá, eu sou o Matheus Wallace </h1>
 <h3 align="center">Desenvolvedor Front-end | Graduando em Sistemas da Computação</h3>
 
 <p align="center">
