@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Matheus Wallace 👋</h1>
+<h3 align="center">Desenvolvedor Front-end | Graduando em Sistemas da Computação</h3>
 
-<!--
-**wallace-mht/wallace-mht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+
+Sou desenvolvedor front-end, atualmente cursando **Sistemas da Computação**. Trabalho principalmente com **React** e **Tailwind CSS** para construir interfaces modernas e responsivas, além de ter experiência com **Python** para lógica de back-end e automações.
+
+🏆 **Vencedor do Piauí para o Mundo**, na modalidade Universidade — um reconhecimento que reforça meu compromisso com projetos de impacto e inovação.
+
+---
+
+### 🛠️ Stack principal
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+---
+
+### 🎓 Formação
+
+- Graduando em **Sistemas da Computação**
+
+---
+
+### 🏅 Conquistas
+
+- 🥇 **Vencedor — Piauí para o Mundo** (modalidade Universidade)
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 📬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-wallace-alves-cunha-64642239b/" target="_blank">
+    <img src="https://img.shields.io/badge/-Matheus%20Wallace-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
